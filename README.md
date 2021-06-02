@@ -1,6 +1,6 @@
 # Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My Name is Abijuru Seth (Abi-Seth) and I am a full-stack developer / programmer willing to learn and implement every technology daily. I have a great passion in modern technology both for backend and frontend. 
+My Name is Abijuru Seth (Abi-Seth) and I am a full-stack developer / programmer willing to learn and implement every technology daily. I have a great passion in modern technology. 
 
 
 **Reach Me Out:<br>**
