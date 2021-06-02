@@ -7,7 +7,7 @@ My Name is Abijuru Seth (Abi-Seth) and I am a full-stack developer / programmer 
 [![Mail Badge](https://img.shields.io/badge/-Ãbi_Seth-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:abiheloaf@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-@seth_abi-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/seth_abi)](https://twitter.com/moshfiqrony/)
 [![Mail Badge](https://img.shields.io/badge/-@seth_abi-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/seth_abi/) 
-[![Facebook Badge](https://img.shields.io/badge/-moshfiqrony-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/abijuru.seth/)](https://www.facebook.com/abijuru.seth/)
+[![Facebook Badge](https://img.shields.io/badge/-abiheloafseth-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/abijuru.seth/)](https://www.facebook.com/abijuru.seth/)
 ![Linkedin Badge](https://img.shields.io/badge/-Abiseth-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abi-seth-b84419210/)
 
 - 🔭 I’m currently working on full desktop application 
