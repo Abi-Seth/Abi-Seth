@@ -12,7 +12,7 @@ My Name is Abijuru Seth (Abi-Seth) and I am a full-stack developer / programmer 
 
 - 🔭 I’m currently working on full desktop application 
 - 🌱 I’m currently learning Angular and Svelte
-- 👯 I’m looking to collaborate on vue-electron
+- 👯 I’m looking to collaborate on any vue-electron project team
 - 📫 How to reach me: abiheloaf@gmail.com
 - ⚡ Advice: Keep learning, keep coding
 
