@@ -11,7 +11,7 @@ My Name is Abijuru Seth (Abi-Seth) and I am a full-stack developer / programmer 
 ![Linkedin Badge](https://img.shields.io/badge/-Abiseth-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abi-seth/)
 
 - 🔭 I’m currently working on full desktop application 
-- 🌱 I’m currently learning Angular and Svelte
+- 🌱 I’m currently learning Go lang
 - 👯 I’m looking to collaborate on any vue-electron project team
 - 📫 How to reach me: abiheloaf@gmail.com
 - ⚡ Advice: Keep learning, keep coding
