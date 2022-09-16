@@ -11,9 +11,9 @@ My Name is Abijuru Seth (Abi-Seth) and I am a full-stack engineer willing to lea
 [![Facebook Badge](https://img.shields.io/badge/-abiheloafseth-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/abijuru.seth/)](https://www.facebook.com/abijuru.seth/)
 
 
-- 🔭 I’m currently working on different solution to make people's lives better 
+- 🔭 I’m currently working on different solutions that make people's lives better 
 - 🌱 I’m currently learning Rust
-- 👯 I’m looking to collaborate on any life inspired project
+- 👯 I’m looking to collaborate on any open source project
 - 📫 How to reach me: abiheloaf@gmail.com
 - ⚡ Advice: Keep learning, keep coding
 
