@@ -7,7 +7,6 @@ My Name is Abijuru Seth (Abi-Seth) and I am a full-stack engineer willing to lea
 [![Mail Badge](https://img.shields.io/badge/-Abi-Seth-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:abiheloaf@gmail.com)
 ![Linkedin Badge](https://img.shields.io/badge/-Abi-Seth-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abi-seth/)
 
-
 - 🔭 I’m currently working on different solutions that make people's lives better 
 - 🌱 Learning new things is my daily dish
 - 👯 I’m looking to collaborate on any open-source project
