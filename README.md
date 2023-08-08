@@ -4,7 +4,7 @@ My Name is Abijuru Seth (Abi-Seth) and I am a full-stack engineer willing to lea
 
 
 **Reach Me Out:<br>**
-![Mail Badge](https://img.shields.io/badge/-Ãbi_Seth-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:abiheloaf@gmail.com)
+![Mail Badge](https://img.shields.io/badge/-Ãbi_Seth-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)
 ![Linkedin Badge](https://img.shields.io/badge/-Abiseth-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abi-seth/)
 
 - 🔭 I’m currently working on different solutions that make people's lives better 
