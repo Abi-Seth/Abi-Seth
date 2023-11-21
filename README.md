@@ -1,6 +1,6 @@
 # Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
-My Name is Abijuru Seth (Abi-Seth) and I am a full-stack engineer willing to learn and implement every technology daily to digitally solve people's daily challenges. I have a great passion for learning and boosting my knowledge of modern technology. 
+I am Seth Abijuru, a passionate full-stack engineer willing to learn and implement every technology daily to digitally solve people's daily challenges. I have a great passion for learning and boosting my knowledge of modern technology. 
 
 
 **Reach Me Out:<br>**
