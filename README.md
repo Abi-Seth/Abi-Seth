@@ -2,8 +2,6 @@
 
 Seth here, tech junkie on a mission to build awesome stuff! Always learning, always creating, let's make life easier (and cooler) together!
 
-
-**Reach Me Out:<br>**
 ![Mail Badge](https://img.shields.io/badge/-Ãbi_Seth-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)
 ![Linkedin Badge](https://img.shields.io/badge/-Abiseth-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abi-seth/)
 
