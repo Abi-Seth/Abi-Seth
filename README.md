@@ -8,5 +8,5 @@ Seth here, tech junkie on a mission to build awesome stuff! Always learning, alw
 - 🔭 Cooking up some ways to make life easier! Stay tuned...
 - 🌱 Learning new things is my daily dish
 - 👯 I’m looking to collaborate on any open-source project
-- 📫 How to reach me: abiheloaf@gmail.com
+- 📫 How to reach me: abiheloaf@gmail.com or seth@feednotch.com
 - ⚡ Advice: Keep learning, keep coding
